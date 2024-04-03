@@ -1,10 +1,9 @@
 <div align="center">
 <img src="./docs/images/icon.svg" alt="icon"/>
 
-<h1 align="center">ChatGPT Next Web LangChain</h1>
+<h1 align="center">ChatGPT Next Web LangChain //-----有偿代部署-----//</h1>
 
-一键免费部署你的跨平台私人 ChatGPT 应用（基于 LangChain 实现插件功能）。
-## //-----有偿代部署-----//
+一键免费部署你的跨平台私人 ChatGPT 应用（基于 LangChain 实现插件功能）。包括联网功能，绘图功能和后端管理平台。
 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
@@ -38,10 +37,10 @@
 - 帮助将chatGPT-Next-Web部署到对应的服务器上
 - 快速，便捷，简单
 - 附赠chatGPT账号代开通
-- 附赠chatGPT API代充值
+- 附赠chatGPT API代充值w
 
 联系微信
-![Wechat](./docs/images/Wechat.png)
+![Wechat](./docs/images/wechat.png)
 
 ## 主要功能
 
