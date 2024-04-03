@@ -39,8 +39,8 @@
 - 附赠chatGPT账号代开通
 - 附赠chatGPT API代充值w
 
-联系微信
-![Wechat](./docs/images/wechat.png)
+- 联系微信
+![Wechat](./docs/wechat.png)
 
 ## 主要功能
 
