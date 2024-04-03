@@ -4,13 +4,14 @@
 <h1 align="center">ChatGPT Next Web LangChain</h1>
 
 一键免费部署你的跨平台私人 ChatGPT 应用（基于 LangChain 实现插件功能）。
+## //-----有偿代部署-----//
 
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[网页版](https://chat-gpt-next-web-gosuto.vercel.app/) / ~~[客户端](https://github.com/Hk-Gosuto/ChatGPT-Next-Web-LangChain/releases)~~ / [反馈](https://github.com/Hk-Gosuto/ChatGPT-Next-Web-LangChain/issues)
+[网页版](https://chat-gpt-next-web-gosuto.vercel.app/) / [反馈](https://github.com/Hk-Gosuto/ChatGPT-Next-Web-LangChain/issues)
 
 [web-url]: https://chat-gpt-next-web-gosuto.vercel.app/
 [download-url]: https://github.com/Hk-Gosuto/ChatGPT-Next-Web-LangChain/releases
@@ -32,6 +33,15 @@
 ![cover](./docs/images/cover.png)
 
 </div>
+
+## 有偿代部署
+- 帮助将chatGPT-Next-Web部署到对应的服务器上
+- 快速，便捷，简单
+- 附赠chatGPT账号代开通
+- 附赠chatGPT API代充值
+
+联系微信
+![Wechat](./docs/images/捕获.png)
 
 ## 主要功能
 
