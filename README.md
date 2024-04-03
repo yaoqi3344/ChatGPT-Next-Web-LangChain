@@ -41,7 +41,7 @@
 - 附赠chatGPT API代充值
 
 联系微信
-![Wechat](./docs/images/捕获.png)
+![Wechat](./docs/images/Wechat.png)
 
 ## 主要功能
 
