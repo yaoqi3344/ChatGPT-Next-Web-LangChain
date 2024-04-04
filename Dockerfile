@@ -38,7 +38,7 @@ COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
 COPY --from=builder /app/.next/server ./.next/server
 
-EXPOSE 3000
+EXPOSE 3102
 
 CMD if [ -n "$PROXY_URL" ]; then \
         export HOSTNAME="127.0.0.1"; \
@@ -58,5 +58,5 @@ CMD if [ -n "$PROXY_URL" ]; then \
         cat /etc/proxychains.conf; \
         proxychains -f $conf node server.js; \
     else \
-        node server.js; \
+        PORT=3102 node server.js; \
     fi
